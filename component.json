@@ -4,7 +4,10 @@
   "description": "museo font",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "esundahl/museo-300": "*",
+    "esundahl/museo-700": "*"
+  },
   "development": {},
   "license": "MIT",
   "styles": [
