@@ -9,8 +9,5 @@
     "esundahl/museo-700": "*"
   },
   "development": {},
-  "license": "MIT",
-  "styles": [
-    "museo.css"
-  ]
+  "license": "MIT"
 }
