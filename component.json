@@ -1,0 +1,13 @@
+{
+  "name": "museo",
+  "repo": "esundahl/museo",
+  "description": "museo font",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "museo.css"
+  ]
+}
