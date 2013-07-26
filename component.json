@@ -6,6 +6,7 @@
   "keywords": [],
   "dependencies": {
     "esundahl/museo-300": "*",
+    "esundahl/museo-500": "*",
     "esundahl/museo-700": "*"
   },
   "development": {},
