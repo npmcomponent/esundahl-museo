@@ -3,7 +3,10 @@
   "repo": "esundahl/museo",
   "description": "museo font",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [
+    "font",
+    "museo"
+  ],
   "dependencies": {
     "esundahl/museo-300": "*",
     "esundahl/museo-500": "*",
