@@ -1,7 +1,6 @@
+# Museo
 
-# museo
-
-  museo font
+  Museo font component using @font-face. The font includes 300, 500 and 700 weights.
 
 ## Installation
 
@@ -11,7 +10,11 @@
 
 ## API
 
-
+```css
+body {
+  font-family: 'Museo';
+}
+```
 
 ## License
 
