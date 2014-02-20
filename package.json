@@ -1,0 +1,15 @@
+{
+  "name": "esundahl-museo",
+  "description": "museo font",
+  "version": "0.0.1",
+  "keywords": [
+    "font",
+    "museo"
+  ],
+  "dependencies": {
+    "esundahl-museo-300": "git://github.com/npmcomponent/esundahl-museo-300.git",
+    "esundahl-museo-500": "git://github.com/npmcomponent/esundahl-museo-500.git",
+    "esundahl-museo-700": "git://github.com/npmcomponent/esundahl-museo-700.git"
+  },
+  "license": "MIT"
+}
